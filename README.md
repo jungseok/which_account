@@ -23,6 +23,6 @@ Which account 는 TensorFlow로 구현된 계정 추천 프로그램 입니다.
 
 학습이 진행되면서 예측한 계정이 얼마나 맞는지 결과가 표시됩니다.
 
-    certainty 적요 텍스트 / 실제 계정 / 예측한 계정 1,2,3 / 맞으면 v, 틀리면 x
+    certainty / 적요 텍스트 / 실제 계정 / 예측한 계정 1,2,3 / 맞으면 v, 틀리면 x
 
 ![result](./assets/result.jpg)
